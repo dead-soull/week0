@@ -7,3 +7,11 @@ def TextToEmoji(text):
     return text.replace(":(", "🙁").replace(":)", "🙂")
     
 main()
+
+
+#Type Hello :) and press Enter. Your program should output:
+#Hello 🙂
+#Type Goodbye :( and press Enter. Your program should output:
+#Goodbye 🙁
+#Type Hello :) Goodbye :( and press Enter. Your program should output
+#Hello 🙂 Goodbye 🙁
