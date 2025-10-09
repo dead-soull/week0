@@ -5,5 +5,4 @@ def main():
 def TextToEmoji(text):
     return text.replace(":(", "🙁").replace(":)", "🙂")
     
-
 main()
